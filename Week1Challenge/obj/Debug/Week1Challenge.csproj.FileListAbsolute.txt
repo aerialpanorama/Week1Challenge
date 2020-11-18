@@ -1,0 +1,2 @@
+C:\Users\aeria\source\repos\Week1Challenge\Week1Challenge\obj\Debug\Week1Challenge.csprojAssemblyReference.cache
+C:\Users\aeria\source\repos\Week1Challenge\Week1Challenge\obj\Debug\Week1Challenge.csproj.CoreCompileInputs.cache
